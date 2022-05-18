@@ -45,6 +45,7 @@ A tech for better 3 week sprint. We decided to build an app to remind and track 
 * Out of app notifications with Twillio and Github actions.
 * Able to action if medication has been taken or not and notication will adjust accordingly.
 * Able to add/delete medications from your profile.
+* Calculate your streak of taking medications consistently.
 * Styled with react components.
 
 ## Learning 🌱
