@@ -1,24 +1,31 @@
-# Be-kind Re-mind 🎗️
+# [Founders and Coders](https://www.foundersandcoders.com/) (apprenticeship) 
 
-An app to remind and track your medication schedule to ensure you take your medications consitently.
+## Be-kind Re-mind 🎗️
+
+*Co-authored with  [Juliette](https://github.com/julietteorpen), [Oli](https://github.com/duckRabbitPy) and [Adam](https://github.com/adam8-9).*
+
+A tech for better 3 week sprint. We decided to build an app to remind and track your medication schedule to ensure you take your medications consitently.
 
 [*Deployed version here!*](https://be-kind-re-mind-omega.vercel.app/) :sparkles:
 
+## Team members
+* Scrum facilitator - Adam
+* Quality Assurance - Oli
+* DevOps - Juliette 
+* UX/UI - Miah
+
 ## How to install 🛠️
-* `git clone https://github.com/fac-23/be-kind_re-mind`
+* `git clone https://github.com/miahbates/be-kind_re-mind`
 * run `npm install` in your terminal to install the dependencies.
 * run `npm run dev` in your terminal to start the server.
-* click on the link in the terminal.
 
-## User Stories 👥
+## User Stories :busts_in_silhouette:
+### Core User stories
 - [x] As a user I want to be able to decide how I respond to my notications, e.g. skip, reschedule, taken.
 - [ ] As a user I want to see a calendar with a history of when I met my medication goals and show what current I'm on.
 - [x] As a user I want to delete my medication.
 - [x] As a user I want to recieve notifications in the app about my scheduled medication.
 - [x] As a user I want a homepage that displays what medication I have taken, updates when there are changes and any reminders/notifications.  
-- [ ] I like to be able to see what medication I took on a certain day (stretch).
-- [ ] As a user I want to login using a 3rd party service (stretch).
-- [ ] As a user I would like to be rewarded with a garden themed reward system (stretch).
 - [ ] As a user I want to be able to reset my password.
 - [x] As a user my information to be available between sessions.
 - [x] As a user I want to be abe to sign-up/login-in securely.
@@ -27,22 +34,38 @@ An app to remind and track your medication schedule to ensure you take your medi
 - [x] As a user I want to track my progress with a streak.
 - [x] As a user I want to be able to add my medication schedule (by picking a time or customize my own time) + (name, dose, type, strength, time, notes).
 - [x] As a user I want to log-out to protect my privacy.
+### Stretch
+- [ ] I like to be able to see what medication I took on a certain day.
+- [ ] As a user I want to login using a 3rd party service.
+- [ ] As a user I would like to be rewarded with a garden themed reward system.
 
-## Co-authoring 🧑‍🤝‍🧑
-* Co-authored-by: Oli  <78092825+duckRabbitPy@users.noreply.github.com>
-* Co-authored-by: Adam <31065348+adam8-9@users.noreply.github.com>
-* Co-authored-by: Miah <78933903+miahbates@users.noreply.github.com>
-* Co-authored-by: Juliette <53294140+julietteorpen@users.noreply.github.com>
+## Features: 🌟
+* Authenticatated users. 
+* In-app notications. 
+* Out of app notifications with Twillio and Github actions.
+* Able to action if medication has been taken or not and notication will adjust accordingly.
+* Able to add/delete medications from your profile.
+* Styled with react components.
 
-## Roles 
-* Scrum facilitator - Adam
-* Quality Assurance - Oli
-* DevOps - Juliette 
-* UX/UI - Miah
+## Learning 🌱
+* Build an intuitive user experience
+* Build an application from a set of user stories
+* Experience an agile workflow
+* Understand how agile methodology can provide benefit in the software development cycle
+* Follow a sprint plan
+* Fulfil a role within agile development
+* Appreciate the responsibilities of other roles and support their fulfilment
+* Have an understanding of agile principles
+* Know how to conduct and participate in a team standup
+* Assign yourself to and fulfil user stories
+* Work from a sprint backlog
+* Manage a backlog of user stories
+* Know techniques for recording the actual complexity of a user story
+* Understand and calculate velocity for a sprint
+* Know how to participate in a sprint review
+* Know how to participate in a sprint retrospective
 
-
-
-
-
-
-
+## Improvements and future ideas ✨
+* More research into heatmap, maybe install package to see how it works and how it can interact with our data.
+* Re-look into populate record bug.
+* Implement the game aspect from the design.
