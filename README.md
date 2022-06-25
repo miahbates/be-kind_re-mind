@@ -2,7 +2,7 @@
 
 ## Be-kind Re-mind 🎗️
 
-*Co-authored with  [Juliette](https://github.com/julietteorpen), [Oli](https://github.com/duckRabbitPy) and [Adam](https://github.com/adam8-9).*
+*Co-authored with [Juliette](https://github.com/julietteorpen), [Oli](https://github.com/duckRabbitPy) and [Adam](https://github.com/adam8-9).*
 
 A tech for better 3 week sprint. We decided to build an app to remind and track your medication schedule to ensure you take your medications consitently.
 
