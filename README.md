@@ -8,6 +8,8 @@ A tech for better 3 week sprint. We decided to build an app to remind and track 
 
 [*Deployed version here!*](https://be-kind-re-mind-omega.vercel.app/) :sparkles:
 
+<img width="491" alt="Screenshot 2022-06-25 at 22 00 14" src="https://user-images.githubusercontent.com/78933903/175790402-c5c3969a-0747-4811-94c1-00f0496e6c9b.png"><img width="489" alt="Screenshot 2022-06-25 at 22 07 57" src="https://user-images.githubusercontent.com/78933903/175790574-ea33530f-49d8-4d2c-b4e4-6d479a6dab71.png">
+
 ## Team members
 * Scrum facilitator - Adam
 * Quality Assurance - Oli
